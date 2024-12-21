@@ -2,7 +2,7 @@
 
 ## Sumário
 - [Bibliotecas](#bibliotecas)
-- [Execução Do Programa](#execucao-do-programa)
+- [Execução Do Programa](#execucao)
 
 ## Bibliotecas
 
@@ -10,7 +10,7 @@
 - pyaes
 - sys
 
-## Execução do programa
+## Execução
 
 Ambos são feitos para serem executados via CLI e de forma bem semelhante
 
