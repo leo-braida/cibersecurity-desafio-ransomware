@@ -1,1 +1,0 @@
-1 -> servir por CLI com mais flexibilidade (pode digitar o nome do arquivo e, caso seja pasta, será recursivo)
