@@ -1,3 +1,5 @@
+# AVISO: Este projeto tem como ÚNICO OBJETIVO o estudo de segurança.
+
 # Exemplo de um ransomware em python
 
 ## Sumário

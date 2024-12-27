@@ -21,8 +21,8 @@ decrypt_data = aes.decrypt(file_data)
 
 os.remove(file_name)
 
-if file_name.endswith(".ransomwaretroll"):
-    new_file = file_name[: -len(".ransomwaretroll")].rstrip()
+if file_name.endswith(".ransomware"):
+    new_file = file_name[: -len(".ransomware")].rstrip()
 else:
     new_file = file_name
     

@@ -1,1 +1,6 @@
 1 -> servir por CLI com mais flexibilidade (pode digitar o nome do arquivo e, caso seja pasta, será recursivo)
+
+FAZER:
+1 -> recursividade caso seja usado em uma pasta
+2 -> se excluir após rodar
+3 -> se enviar para o server do atacante.
